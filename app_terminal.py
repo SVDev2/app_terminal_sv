@@ -100,7 +100,7 @@ def instalando():
 ##################
 def titulo():
     print("\033[93m=\033[0m"*60)
-    print("\033[1m\033[33m                    terminal_app_SV\033[0m")
+    print("\033[1m\033[33m                    app_terminal_SV\033[0m")
     print("\033[93m=\033[0m"*60)
     print()
     print("-"*60)
@@ -181,7 +181,7 @@ def sobre():
     ideia de: SER VIVO
     nome real de SER VIVO: Dennis Alexandre
     Classificação indicativa: 14+
-    créditos:\n    -ao chatGPT (openAI) por ajudar com a ideia do jogo cinco \n    -a Franciele Alexandre (mãe de SER VIVO)por testar o app durante seu desenvolvimento \n""")
+    créditos:\n    -ao chatGPT (openAI) por ajudar com a ideia do jogo cinco \n    -a Franciele Alexandre (mãe de SER VIVO) por testar o app durante seu desenvolvimento \n""")
     continua()
     varrer()
     interface_dois()
